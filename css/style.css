@@ -1,3 +1,19 @@
 body{
-    background-color: aqua;
+    text-align: center;
+    background-color: rgb(110, 187, 183);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(39, 38, 38);
+    
 }
+a:link{
+    color: rgb(74, 130, 233);
+    text-decoration-color: rgb(236, 79, 236);
+    
+    
+}
+a:hover{
+    
+    color: rgb(189, 60, 157);
+}
+
